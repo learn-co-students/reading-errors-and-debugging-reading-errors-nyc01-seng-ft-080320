@@ -1,3 +1,1 @@
-1 + 1
-
-1 + "is the loneliest number"
+44.to_s
